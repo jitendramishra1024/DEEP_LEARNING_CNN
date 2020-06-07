@@ -9,8 +9,11 @@ We are going  to test an provided image is dog or cat
 i.e binary classification using Convolution neural network
 
 dataset description  :
+
 training_set: 4000 cat image 4000 dog image 
+
 test_set: 1000 cat image 1000 dog image 
+
 single_prediction :2 images cat_or_dog 
 
 STEPS :
