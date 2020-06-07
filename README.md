@@ -15,11 +15,11 @@ single_prediction :2 images cat_or_dog
 
 STEPS :
 
-1.upload dataset.zip to google drive Colab Notebooks 
+    1.upload dataset.zip to google drive Colab Notebooks 
 
-2.Upload code 
+    2.Upload code 
 
-4. run CAT_DOG_CLASSIFIER.ipynb 
+    3. run CAT_DOG_CLASSIFIER.ipynb 
 
 Features :
 Added drop out layer , added data augmentation to reduce overfitting
