@@ -28,9 +28,7 @@ i.e binary classification using Convolution neural network
 dataset description  :
 
 training_set: 4000 cat image 4000 dog image 
-
 test_set: 1000 cat image 1000 dog image 
-
 single_prediction :2 images cat_or_dog 
 
 STEPS :
@@ -48,4 +46,28 @@ plotted graph to show training and test accuracy over epochs
 
 02. CNN WITH DATA CONSTRAINTS 
 
+From the above example we experimented with data constraint i.e
+
+TRAINING SET :1500 CAT 1500 DOG 
+TEST SET     : 500 CAT 500 DOG 
+
+3 APPROACHES TRIED 
+
+#FIRST APPROACH 
+ #.BASIC CNN
+ #TRAINING ACCURACY 0.99
+ #VALIDATION ACCURACY 0.75 
+ #CONCLUSION OVERFITTED 
+
+#SECOND  APPROACH 
+ # BASIC CNN WITH DROP OUT LAYER i.e REGULARIZATION
+ #TRAINING ACCURACY 0.95
+ #VALIDATION ACCURACY 0.75 
+ #CONCLUSION  STILL OVERFITTED 
+ 
+#THIRD APPROACH 
+ # BASIC CNN WITH DROP OUT LAYER i.e REGULARIZATION WITH DATA AUGMENTATION 
+ #TRAINING ACCURACY 0.82
+ #VALIDATION ACCURACY 0.73
+ #CONCLUSION: ACCURACY LOW BUT MODEL NOT OVERFITTED 
 
