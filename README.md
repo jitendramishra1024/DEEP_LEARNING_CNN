@@ -44,7 +44,7 @@ Added drop out layer , added data augmentation to reduce overfitting
 Final model saved into h5 file and model prediction done from h5 file 
 plotted graph to show training and test accuracy over epochs 
 
-02. CNN WITH DATA CONSTRAINTS 
+02. BASIC CNN WITH DATA CONSTRAINTS 
 
 From the above example we experimented with data constraint i.e
 
@@ -71,3 +71,42 @@ TEST SET     : 500 CAT 500 DOG
  #VALIDATION ACCURACY 0.73
  #CONCLUSION: ACCURACY LOW BUT MODEL NOT OVERFITTED 
 
+03. CNN WITH TRANSFER LEARNING PRETRAINED AND TRANSFER LEARNING 
+
+
+From the above example we experimented with data constraint i.e
+
+TRAINING SET :1500 CAT 1500 DOG 
+TEST SET     : 500 CAT 500 DOG 
+
+3 APPROACHES TRIED 
+
+
+
+#FIRST APPROACH 
+
+ #VGG16 Pre-trained CNN model as a Feature Extractor with out data augmentation 
+ #TRAINING ACCURACY :1.00
+ #VALIDATION ACCURACY:0.89  
+ #CONCLUSION: OVERFITTED 
+
+
+
+
+
+
+#SECOND  APPROACH 
+
+ #VGG16 Pre-trained CNN model as a Feature Extractor with data augmentation 
+ #TRAINING ACCURACY :0.88
+ #VALIDATION ACCURACY:0.99  
+ #CONCLUSION: MODEL UNDER FITTED
+
+
+
+#THIRD  APPROACH 
+
+ #VGG16 Pre-trained CNN model with Fine-tuning and Image Augmentation
+ #TRAINING ACCURACY :0.99
+ #VALIDATION ACCURACY:0.95 
+ #CONCLUSION: MODEL IS PERFECT
