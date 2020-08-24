@@ -86,7 +86,7 @@
 		 #CONCLUSION: 
 			ACCURACY LOW BUT MODEL NOT OVERFITTED 
 
-### 03. CNN WITH TRANSFER LEARNING PRETRAINED AND TRANSFER LEARNING 
+### 03. CNN WITH TRANSFER LEARNING PRETRAINED AND TRANSFER LEARNING (LIMITED DATA)
 
 	- FOURTH  APPROACH 
 		 VGG16 Pre-trained CNN model as a Feature Extractor with out data augmentation 
@@ -107,7 +107,8 @@
 			MODEL UNDER FITTED
 
 	-SIXTH  APPROACH 
-		VGG16 Pre-trained CNN model with Fine-tuning and Image Augmentation
+		VGG16 Pre-trained CNN model with Fine-tuning and Image Augmentation with unfreezing 
+		Block4 and Block 5
 		
 		 #TRAINING ACCURACY :0.99
 		 #VALIDATION ACCURACY:0.95 
