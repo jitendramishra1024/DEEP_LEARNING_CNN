@@ -43,7 +43,13 @@
 	
 ### ACCURACY AND LOSS :
 
-<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="250" width="250" ></a><br />
+<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="250" width="250" ></a>
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 
