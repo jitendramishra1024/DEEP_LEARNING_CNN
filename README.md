@@ -40,6 +40,10 @@
 	- Added drop out layer , added data augmentation to reduce overfitting 	
 	- Final model saved into h5 file and model prediction done from h5 file 	
 	- Plotted graph to show training and test accuracy over epochs 
+	
+### ACCURACY AND LOSS :
+
+	![alt text](https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png?raw=true)
 
 02. BASIC CNN WITH DATA CONSTRAINTS 
 
