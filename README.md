@@ -1,8 +1,11 @@
 # DEEP_LEARNING_CNN
+
 This repository contains code for  CNN projects for Image classification  <br/>
 
 ##01.CAT_DOG_CLASSIFIER 
+
 ###APPLIED TECHNIQUE :
+
 CNN :Conv2D(32,(3,3))->Conv2D(64,(3,3))->->Conv2D(128,(3,3))->DENSE(256)->DENSE(256)->DENSE(1) -Sigmoid<br/>
 Maxpooling after every conv2D layer , done batch normalization and data augmentation <br/>
 ACCURACY ACHIEVED (TRAINING :82% , TESTING ACCURACY :79% ) in 30 EPOCHS<br/>
