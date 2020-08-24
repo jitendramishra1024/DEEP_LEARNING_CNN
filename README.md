@@ -1,19 +1,11 @@
 # DEEP_LEARNING_CNN
-This repository contains code for  CNN projects for Image classification 
+This repository contains code for  CNN projects for Image classification  <br/>
 
-
-
-
-
-***************************************
-01.CAT_DOG_CLASSIFIER 
-***************************************
-APPLIED TECHNIQUE :
-CNN :Conv2D(32,(3,3))->Conv2D(64,(3,3))->->Conv2D(128,(3,3))->DENSE(256)->DENSE(256)->DENSE(1) -Sigmoid
-
-Maxpooling after every conv2D layer , done batch normalization and data augmentation 
-
-ACCURACY ACHIEVED (TRAINING :82% , TESTING ACCURACY :79% ) in 30 EPOCHS
+##01.CAT_DOG_CLASSIFIER 
+###APPLIED TECHNIQUE :
+CNN :Conv2D(32,(3,3))->Conv2D(64,(3,3))->->Conv2D(128,(3,3))->DENSE(256)->DENSE(256)->DENSE(1) -Sigmoid<br/>
+Maxpooling after every conv2D layer , done batch normalization and data augmentation <br/>
+ACCURACY ACHIEVED (TRAINING :82% , TESTING ACCURACY :79% ) in 30 EPOCHS<br/>
 
 ***************************************
 
@@ -25,9 +17,9 @@ i.e binary classification using Convolution neural network
 
 dataset description  :
 
-training_set: 4000 cat image 4000 dog image 
-test_set: 1000 cat image 1000 dog image 
-single_prediction :2 images cat_or_dog 
+training_set: 4000 cat image 4000 dog image <br/>
+test_set: 1000 cat image 1000 dog image <br/>
+single_prediction :2 images cat_or_dog <br/>
 
 STEPS :
 
