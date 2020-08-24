@@ -115,3 +115,10 @@
 		 
 		 #CONCLUSION:
 			MODEL IS PERFECT
+	
+### ACCURACY AND LOSS :
+
+<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/VGG_16_FINE_TUNE_ACCURACY.png" align="center" height="250" width="250" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/VGG_16_FINE_TUNE_LOSS.png" align="center" height="250" width="250" ></a>
+
+
