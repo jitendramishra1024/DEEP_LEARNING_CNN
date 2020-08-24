@@ -45,9 +45,11 @@
 
 <a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="250" width="250" ></a>
 
-</br>
+<br />
 
-02. BASIC CNN WITH DATA CONSTRAINTS 
+
+## 02. BASIC CNN WITH DATA CONSTRAINTS 
+
 
 From the above example we experimented with data constraint i.e
 
