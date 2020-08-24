@@ -38,7 +38,9 @@
 ### FEATURES :
 
 	>Added drop out layer , added data augmentation to reduce overfitting 
+	
 	>Final model saved into h5 file and model prediction done from h5 file 
+	
 	>Plotted graph to show training and test accuracy over epochs 
 
 02. BASIC CNN WITH DATA CONSTRAINTS 
