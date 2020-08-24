@@ -6,9 +6,7 @@ This repository contains code for  CNN projects for Image classification
 
 
 ***************************************
-
 01.CAT_DOG_CLASSIFIER 
-
 ***************************************
 APPLIED TECHNIQUE :
 CNN :Conv2D(32,(3,3))->Conv2D(64,(3,3))->->Conv2D(128,(3,3))->DENSE(256)->DENSE(256)->DENSE(1) -Sigmoid
