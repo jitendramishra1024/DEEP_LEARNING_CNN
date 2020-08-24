@@ -43,8 +43,7 @@
 	
 ### ACCURACY AND LOSS :
 
-<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="48" width="48" ></a>
-![Alt text](https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png = 250x250)
+<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="100" width="100" ></a>
 
 02. BASIC CNN WITH DATA CONSTRAINTS 
 
