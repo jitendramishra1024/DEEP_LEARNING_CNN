@@ -42,12 +42,9 @@
 	- Plotted graph to show training and test accuracy over epochs 
 	
 ### ACCURACY AND LOSS :
+<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_accuracy.png" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="250" width="250" ></a>
 
-
-<ul>
-<li><a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_accuracy.png" align="left" height="250" width="250" ></a></li>
-<li><a href="url"><img src="https://github.com/jitendramishra1024/DEEP_LEARNING_CNN/blob/master/supporting_files/naive_image_classifier_loss.png" align="left" height="250" width="250" ></a></li>
-</ul>
 
 
 
